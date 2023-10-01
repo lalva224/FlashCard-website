@@ -7,7 +7,7 @@ function App() {
 
   return (
       <div>
-        <h1>Study Tech Tips</h1>
+        <h1 className = "title">Study Tech Tips</h1>
         <FlashcardDeck/>
        </div>
     

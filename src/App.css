@@ -2,7 +2,7 @@
   width: 500px;
   height: 300px;
   border: 1px solid #ccc;
-  margin: 70px;
+  margin: 50px;
   display: inline-block;
   cursor: pointer;
   perspective: 1000px;
@@ -15,12 +15,15 @@ body{
   text-align: center;
 }
 
-h1{
+.title{
   color: white;
-  margin-top:30px;
+  margin-top:10px;
   font-weight: bold;
-  font-size: 36px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+  font-size: 26px;
 }
 
 .flip{
