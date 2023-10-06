@@ -9,6 +9,8 @@ function App() {
       <div>
         <h1 className = "title">Study Tech Tips</h1>
         <FlashcardDeck/>
+          
+        
        </div>
     
   )
